@@ -22,6 +22,7 @@
 #     list.append(nama)
 # print(list)
 
+#QUIZ DARI KAKAKNYA
 count = int(input("Berapa Data: "))
 
 nama_pelanggan = []
